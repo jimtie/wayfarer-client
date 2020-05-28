@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 User: 'jimmychen.xin@gmail.com'<br />
 Password: 'jimmy000'
 <br/>
+
 In the project directory, you can run:
 
 ### `npm start`
